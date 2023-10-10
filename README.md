@@ -7,6 +7,7 @@ In questa repo potete avere accesso ai codici dei laboratori svolti durante il c
 Gli Environments sono basati su OpenAI Gym: https://github.com/openai/gym
 
 Docente: Alessandro Farinelli - alessandro.farinelli@univr.it
+
 Assistente di laboratorio: Davide Corsi - davide.corsi@univr.it
 
 
